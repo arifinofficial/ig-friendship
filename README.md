@@ -1,6 +1,6 @@
-# ig-unfollower-list
+# Instagram Friendship
 
-To install dependencies:
+A console app that can helps get mutual data, followers, following, following not followback you, and followers you don't followback.
 
 ```bash
 bun install
